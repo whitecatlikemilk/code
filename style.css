@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(1, 46, 66);
+}
+
+.header {
+    background-color: rgb(9, 99, 138);
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Yusei Magic', sans-serif;
+}
